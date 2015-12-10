@@ -1,6 +1,5 @@
 FROM extvos/java:7
 MAINTAINER "Mingcai SHEN <archsh@gmail.com>"
-
 ENV KIBANA_VERSION 4.1.1
 
 # download and extract 
